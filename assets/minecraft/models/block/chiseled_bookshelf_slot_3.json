@@ -1,0 +1,15 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "block/chiseled_bookshelf",
+  "elements": [
+    {
+      "name": "slot_3",
+      "from": [11, 1, 1],
+      "to": [15, 7, 6],
+      "faces": {
+        "north": { "uv": [0, 4, 2, 7], "texture": "#books" },
+        "west": { "uv": [2, 4, 4.5, 7], "texture": "#books" }
+      }
+    }
+  ]
+}
