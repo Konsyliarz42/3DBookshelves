@@ -1,0 +1,73 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "block/chiseled_bookshelf",
+  "elements": [
+    {
+      "name": "down",
+      "from": [0, 0, 0],
+      "to": [16, 1, 16],
+      "faces": {
+        "north": { "uv": [0, 15, 16, 16], "texture": "#front" },
+        "east": { "uv": [0, 15, 16, 16], "texture": "#side" },
+        "south": { "uv": [0, 15, 16, 16], "texture": "#side" },
+        "west": { "uv": [0, 15, 16, 16], "texture": "#side" },
+        "up": { "uv": [0, 0, 16, 16], "texture": "#inside" },
+        "down": { "uv": [0, 0, 16, 16], "texture": "#end" }
+      }
+    },
+    {
+      "name": "up",
+      "from": [0, 15, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 1], "texture": "#front" },
+        "east": { "uv": [0, 0, 16, 1], "texture": "#side" },
+        "south": { "uv": [0, 0, 16, 1], "texture": "#side" },
+        "west": { "uv": [0, 0, 16, 1], "texture": "#side" },
+        "up": { "uv": [0, 0, 16, 16], "texture": "#end" },
+        "down": { "uv": [0, 0, 16, 16], "texture": "#inside" }
+      }
+    },
+    {
+      "name": "weast",
+      "from": [0, 1, 0],
+      "to": [1, 15, 6],
+      "faces": {
+        "north": { "uv": [15, 1, 16, 15], "texture": "#front" },
+        "east": { "uv": [10, 1, 16, 15], "texture": "#side" },
+        "west": { "uv": [0, 1, 6, 15], "texture": "#side" }
+      }
+    },
+    {
+      "name": "south",
+      "from": [0, 1, 6],
+      "to": [16, 15, 16],
+      "faces": {
+        "north": { "uv": [0, 1, 16, 15], "texture": "#front" },
+        "east": { "uv": [0, 1, 10, 15], "texture": "#side" },
+        "south": { "uv": [0, 1, 16, 15], "texture": "#side" },
+        "west": { "uv": [6, 1, 16, 15], "texture": "#side" }
+      }
+    },
+    {
+      "name": "east",
+      "from": [15, 1, 0],
+      "to": [16, 15, 6],
+      "faces": {
+        "north": { "uv": [0, 1, 1, 15], "texture": "#front" },
+        "east": { "uv": [10, 1, 16, 15], "texture": "#side" },
+        "west": { "uv": [0, 1, 6, 15], "texture": "#side" }
+      }
+    },
+    {
+      "name": "north",
+      "from": [1, 7, 0],
+      "to": [15, 9, 6],
+      "faces": {
+        "north": { "uv": [1, 7, 15, 9], "texture": "#front" },
+        "up": { "uv": [1, 0, 15, 6], "texture": "#inside" },
+        "down": { "uv": [1, 10, 15, 16], "texture": "#inside" }
+      }
+    }
+  ]
+}
