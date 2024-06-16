@@ -10,8 +10,8 @@ Here is a comparison of the originals (_left_) and my version (_right_).
 
 ### Bookshelf
 
-![bookshelves](renders\bookshelf_comparison.png)
+![bookshelves](renders/bookshelf_comparison.png)
 
 ### Chiseled bookshelf
 
-![chiseled_bookshelves](renders\chiseled_bookshelf_comparison.png)
+![chiseled_bookshelves](renders/chiseled_bookshelf_comparison.png)

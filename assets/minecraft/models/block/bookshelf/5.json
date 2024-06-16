@@ -1,0 +1,6 @@
+{
+  "parent": "block/bookshelf",
+  "textures": {
+    "books": "block/bookshelf_books/6"
+  }
+}

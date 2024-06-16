@@ -7,7 +7,7 @@
     "inside": "block/chiseled_bookshelf_inside",
     "side": "block/chiseled_bookshelf_side",
     "front": "block/chiseled_bookshelf_front",
-    "books": "block/chiseled_bookshelf_books"
+    "books": "block/bookshelf_books/0"
   },
   "display": {
     "thirdperson_righthand": {

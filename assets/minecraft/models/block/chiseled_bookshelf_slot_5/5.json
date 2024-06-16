@@ -1,0 +1,6 @@
+{
+  "parent": "block/chiseled_bookshelf_slot_5",
+  "textures": {
+    "books": "block/bookshelf_books/5"
+  }
+}

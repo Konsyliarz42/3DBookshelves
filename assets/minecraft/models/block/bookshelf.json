@@ -5,7 +5,7 @@
     "side": "block/bookshelf",
     "particle": "block/oak_planks",
     "end": "block/oak_planks",
-    "books": "block/bookshelf_books"
+    "books": "block/bookshelf_books/0"
   },
   "elements": [
     {
