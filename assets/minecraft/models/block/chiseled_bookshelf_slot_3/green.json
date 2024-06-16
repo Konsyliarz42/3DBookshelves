@@ -1,7 +1,0 @@
-{
-  "credit": "Made with Blockbench",
-  "parent": "block/chiseled_bookshelf_slot_3",
-  "textures": {
-    "books": "block/bookshelf_books/green"
-  }
-}

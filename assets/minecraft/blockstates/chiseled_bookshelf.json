@@ -20,60 +20,56 @@
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_0", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_0/blue", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_0/brown", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_0/cyan", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_0/gray", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_0/green", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_0/orange", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_0/purple", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_0/red", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_0/yellow", "y": 0 }
+        { "model": "block/chiseled_bookshelf_slot_0/1", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_0/2", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_0/3", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_0/4", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_0/5", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_0/6", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_0/7", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_0/8", "y": 0 }
       ],
       "when": { "AND": [{ "facing": "north" }, { "slot_0_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_0", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_0/blue", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_0/brown", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_0/cyan", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_0/gray", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_0/green", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_0/orange", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_0/purple", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_0/red", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_0/yellow", "y": 90 }
+        { "model": "block/chiseled_bookshelf_slot_0/1", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_0/2", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_0/3", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_0/4", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_0/5", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_0/6", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_0/7", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_0/8", "y": 90 }
       ],
       "when": { "AND": [{ "facing": "east" }, { "slot_0_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_0", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_0/blue", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_0/brown", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_0/cyan", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_0/gray", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_0/green", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_0/orange", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_0/purple", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_0/red", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_0/yellow", "y": 180 }
+        { "model": "block/chiseled_bookshelf_slot_0/1", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_0/2", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_0/3", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_0/4", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_0/5", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_0/6", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_0/7", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_0/8", "y": 0 }
       ],
       "when": { "AND": [{ "facing": "south" }, { "slot_0_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_0", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_0/blue", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_0/brown", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_0/cyan", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_0/gray", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_0/green", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_0/orange", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_0/purple", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_0/red", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_0/yellow", "y": 270 }
+        { "model": "block/chiseled_bookshelf_slot_0/1", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_0/2", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_0/3", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_0/4", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_0/5", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_0/6", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_0/7", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_0/8", "y": 270 }
       ],
       "when": { "AND": [{ "facing": "west" }, { "slot_0_occupied": "true" }] }
     },
@@ -81,60 +77,56 @@
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_1", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_1/blue", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_1/brown", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_1/cyan", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_1/gray", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_1/green", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_1/orange", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_1/purple", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_1/red", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_1/yellow", "y": 0 }
+        { "model": "block/chiseled_bookshelf_slot_1/1", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_1/2", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_1/3", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_1/4", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_1/5", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_1/6", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_1/7", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_1/8", "y": 0 }
       ],
       "when": { "AND": [{ "facing": "north" }, { "slot_1_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_1", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_1/blue", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_1/brown", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_1/cyan", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_1/gray", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_1/green", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_1/orange", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_1/purple", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_1/red", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_1/yellow", "y": 90 }
+        { "model": "block/chiseled_bookshelf_slot_1/1", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_1/2", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_1/3", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_1/4", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_1/5", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_1/6", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_1/7", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_1/8", "y": 90 }
       ],
       "when": { "AND": [{ "facing": "east" }, { "slot_1_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_1", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_1/blue", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_1/brown", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_1/cyan", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_1/gray", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_1/green", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_1/orange", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_1/purple", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_1/red", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_1/yellow", "y": 180 }
+        { "model": "block/chiseled_bookshelf_slot_1/1", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_1/2", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_1/3", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_1/4", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_1/5", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_1/6", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_1/7", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_1/8", "y": 180 }
       ],
       "when": { "AND": [{ "facing": "south" }, { "slot_1_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_1", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_1/blue", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_1/brown", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_1/cyan", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_1/gray", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_1/green", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_1/orange", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_1/purple", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_1/red", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_1/yellow", "y": 270 }
+        { "model": "block/chiseled_bookshelf_slot_1/1", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_1/2", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_1/3", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_1/4", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_1/5", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_1/6", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_1/7", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_1/8", "y": 270 }
       ],
       "when": { "AND": [{ "facing": "west" }, { "slot_1_occupied": "true" }] }
     },
@@ -142,60 +134,56 @@
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_2", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_2/blue", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_2/brown", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_2/cyan", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_2/gray", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_2/green", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_2/orange", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_2/purple", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_2/red", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_2/yellow", "y": 0 }
+        { "model": "block/chiseled_bookshelf_slot_2/1", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_2/2", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_2/3", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_2/4", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_2/5", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_2/6", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_2/7", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_2/8", "y": 0 }
       ],
       "when": { "AND": [{ "facing": "north" }, { "slot_2_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_2", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_2/blue", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_2/brown", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_2/cyan", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_2/gray", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_2/green", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_2/orange", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_2/purple", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_2/red", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_2/yellow", "y": 90 }
+        { "model": "block/chiseled_bookshelf_slot_2/1", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_2/2", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_2/3", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_2/4", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_2/5", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_2/6", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_2/7", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_2/8", "y": 90 }
       ],
       "when": { "AND": [{ "facing": "east" }, { "slot_2_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_2", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_2/blue", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_2/brown", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_2/cyan", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_2/gray", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_2/green", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_2/orange", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_2/purple", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_2/red", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_2/yellow", "y": 180 }
+        { "model": "block/chiseled_bookshelf_slot_2/1", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_2/2", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_2/3", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_2/4", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_2/5", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_2/6", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_2/7", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_2/8", "y": 180 }
       ],
       "when": { "AND": [{ "facing": "south" }, { "slot_2_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_2", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_2/blue", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_2/brown", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_2/cyan", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_2/gray", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_2/green", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_2/orange", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_2/purple", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_2/red", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_2/yellow", "y": 270 }
+        { "model": "block/chiseled_bookshelf_slot_2/1", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_2/2", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_2/3", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_2/4", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_2/5", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_2/6", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_2/7", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_2/8", "y": 270 }
       ],
       "when": { "AND": [{ "facing": "west" }, { "slot_2_occupied": "true" }] }
     },
@@ -203,60 +191,56 @@
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_3", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_3/blue", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_3/brown", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_3/cyan", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_3/gray", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_3/green", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_3/orange", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_3/purple", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_3/red", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_3/yellow", "y": 0 }
+        { "model": "block/chiseled_bookshelf_slot_3/1", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_3/2", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_3/3", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_3/4", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_3/5", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_3/6", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_3/7", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_3/8", "y": 0 }
       ],
       "when": { "AND": [{ "facing": "north" }, { "slot_3_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_3", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_3/blue", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_3/brown", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_3/cyan", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_3/gray", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_3/green", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_3/orange", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_3/purple", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_3/red", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_3/yellow", "y": 90 }
+        { "model": "block/chiseled_bookshelf_slot_3/1", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_3/2", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_3/3", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_3/4", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_3/5", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_3/6", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_3/7", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_3/8", "y": 90 }
       ],
       "when": { "AND": [{ "facing": "east" }, { "slot_3_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_3", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_3/blue", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_3/brown", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_3/cyan", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_3/gray", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_3/green", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_3/orange", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_3/purple", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_3/red", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_3/yellow", "y": 180 }
+        { "model": "block/chiseled_bookshelf_slot_3/1", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_3/2", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_3/3", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_3/4", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_3/5", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_3/6", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_3/7", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_3/8", "y": 180 }
       ],
       "when": { "AND": [{ "facing": "south" }, { "slot_3_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_3", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_3/blue", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_3/brown", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_3/cyan", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_3/gray", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_3/green", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_3/orange", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_3/purple", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_3/red", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_3/yellow", "y": 270 }
+        { "model": "block/chiseled_bookshelf_slot_3/1", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_3/2", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_3/3", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_3/4", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_3/5", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_3/6", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_3/7", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_3/8", "y": 270 }
       ],
       "when": { "AND": [{ "facing": "west" }, { "slot_3_occupied": "true" }] }
     },
@@ -264,60 +248,56 @@
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_4", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_4/blue", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_4/brown", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_4/cyan", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_4/gray", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_4/green", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_4/orange", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_4/purple", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_4/red", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_4/yellow", "y": 0 }
+        { "model": "block/chiseled_bookshelf_slot_4/1", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_4/2", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_4/3", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_4/4", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_4/5", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_4/6", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_4/7", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_4/8", "y": 0 }
       ],
       "when": { "AND": [{ "facing": "north" }, { "slot_4_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_4", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_4/blue", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_4/brown", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_4/cyan", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_4/gray", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_4/green", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_4/orange", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_4/purple", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_4/red", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_4/yellow", "y": 90 }
+        { "model": "block/chiseled_bookshelf_slot_4/1", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_4/2", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_4/3", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_4/4", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_4/5", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_4/6", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_4/7", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_4/8", "y": 90 }
       ],
       "when": { "AND": [{ "facing": "east" }, { "slot_4_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_4", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_4/blue", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_4/brown", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_4/cyan", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_4/gray", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_4/green", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_4/orange", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_4/purple", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_4/red", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_4/yellow", "y": 180 }
+        { "model": "block/chiseled_bookshelf_slot_4/1", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_4/2", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_4/3", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_4/4", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_4/5", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_4/6", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_4/7", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_4/8", "y": 180 }
       ],
       "when": { "AND": [{ "facing": "south" }, { "slot_4_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_4", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_4/blue", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_4/brown", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_4/cyan", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_4/gray", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_4/green", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_4/orange", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_4/purple", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_4/red", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_4/yellow", "y": 270 }
+        { "model": "block/chiseled_bookshelf_slot_4/1", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_4/2", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_4/3", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_4/4", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_4/5", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_4/6", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_4/7", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_4/8", "y": 270 }
       ],
       "when": { "AND": [{ "facing": "west" }, { "slot_4_occupied": "true" }] }
     },
@@ -325,60 +305,56 @@
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_5", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_5/blue", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_5/brown", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_5/cyan", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_5/gray", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_5/green", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_5/orange", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_5/purple", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_5/red", "y": 0 },
-        { "model": "block/chiseled_bookshelf_slot_5/yellow", "y": 0 }
+        { "model": "block/chiseled_bookshelf_slot_5/1", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_5/2", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_5/3", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_5/4", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_5/5", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_5/6", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_5/7", "y": 0 },
+        { "model": "block/chiseled_bookshelf_slot_5/8", "y": 0 }
       ],
       "when": { "AND": [{ "facing": "north" }, { "slot_5_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_5", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_5/blue", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_5/brown", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_5/cyan", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_5/gray", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_5/green", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_5/orange", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_5/purple", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_5/red", "y": 90 },
-        { "model": "block/chiseled_bookshelf_slot_5/yellow", "y": 90 }
+        { "model": "block/chiseled_bookshelf_slot_5/1", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_5/2", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_5/3", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_5/4", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_5/5", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_5/6", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_5/7", "y": 90 },
+        { "model": "block/chiseled_bookshelf_slot_5/8", "y": 90 }
       ],
       "when": { "AND": [{ "facing": "east" }, { "slot_5_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_5", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_5/blue", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_5/brown", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_5/cyan", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_5/gray", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_5/green", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_5/orange", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_5/purple", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_5/red", "y": 180 },
-        { "model": "block/chiseled_bookshelf_slot_5/yellow", "y": 180 }
+        { "model": "block/chiseled_bookshelf_slot_5/1", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_5/2", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_5/3", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_5/4", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_5/5", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_5/6", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_5/7", "y": 180 },
+        { "model": "block/chiseled_bookshelf_slot_5/8", "y": 180 }
       ],
       "when": { "AND": [{ "facing": "south" }, { "slot_5_occupied": "true" }] }
     },
     {
       "apply": [
         { "model": "block/chiseled_bookshelf_slot_5", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_5/blue", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_5/brown", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_5/cyan", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_5/gray", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_5/green", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_5/orange", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_5/purple", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_5/red", "y": 270 },
-        { "model": "block/chiseled_bookshelf_slot_5/yellow", "y": 270 }
+        { "model": "block/chiseled_bookshelf_slot_5/1", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_5/2", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_5/3", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_5/4", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_5/5", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_5/6", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_5/7", "y": 270 },
+        { "model": "block/chiseled_bookshelf_slot_5/8", "y": 270 }
       ],
       "when": { "AND": [{ "facing": "west" }, { "slot_5_occupied": "true" }] }
     }
